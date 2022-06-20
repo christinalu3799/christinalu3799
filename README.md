@@ -1,3 +1,5 @@
+! [Github Image] ()
+
 I am currently a coding bootcamp student with General Assembly. I am on track to graduate at the end of November, 2022. In the meantime, I am excited to learn more about the industry and leverage my problem-solving skills and creativity to a lifetime of learning.
 
 I have a passion for learning new things. Currently, I am advancing my proficiency in JavaScript to create my first, full project to add to my portfolio. 
