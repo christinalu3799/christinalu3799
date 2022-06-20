@@ -1,4 +1,4 @@
-![Personal Github Banner](banner.png)
+![Personal Github Banner](bannerwhite.png)
 
 I am currently a coding bootcamp student with General Assembly. I am on track to graduate at the end of November, 2022. In the meantime, I am excited to learn more about the industry and leverage my problem-solving skills and creativity to a lifetime of learning.
 
