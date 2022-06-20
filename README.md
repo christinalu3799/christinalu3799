@@ -14,7 +14,8 @@ I'm looking forward to connecting with other developers to work on collaborative
 - Hobbies: Watching crime documentaries and going on long walks around the city.
 - Pronouns: She/Her
 - Editor of Choice: VS Code 
-[![Christina's LinkedIn](https://img.shields.io/badge/-anmol-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anmol-p-singh/)](https://www.linkedin.com/in/christinalu3799/)
+
+[![Christina's LinkedIn](https://img.shields.io/badge/-anmol-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/christinalu3799)](https://www.linkedin.com/in/christinalu3799/)
 ![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
 ![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
