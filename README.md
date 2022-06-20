@@ -1,5 +1,6 @@
 ![Personal Github Banner](bannerwhite.png)
 <img src="https://github.com/christinalu3799/christinalu3799/blob/main/general-assembly_logo.png" alt="GA Logo" width="75"/>
+<br>
 I am currently a coding bootcamp student with General Assembly. I am on track to graduate at the end of November, 2022. In the meantime, I am excited to learn more about the industry and leverage my problem-solving skills and creativity to a lifetime of learning.
 
 Currently, I am advancing my proficiency in JavaScript to create my first, full project to add to my portfolio. 
