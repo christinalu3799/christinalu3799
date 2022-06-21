@@ -1,14 +1,12 @@
 ![Personal Github Banner](bannerwhite.png)
 
-<img src="https://github.com/christinalu3799/christinalu3799/blob/main/general-assembly_logo.png" alt="GA Logo" width="75"/>
-
-# Hello there, I'm Christina! Let me introduce myself...
+# Hello there! I'm Christina.
 
 I am currently a coding bootcamp student with General Assembly and on track to graduate at the end of November of this year. In the meantime, I am excited to explore the industry and leverage my problem-solving skills and creativity to a lifetime of learning with other like-minded individuals.
 
-Currently, I working on my proficiency in JavaScript to develop my first project for my portfolio. 
+Currently, I developing my proficiency in JavaScript to create my first project for my portfolio. 
 
-I'm looking forward to connecting with other developers to work on collaborative projects as I continue honing my technical skills.
+As I continue honing my technical skills, I look forward to connecting with other developers to work on creative and innovative projects.
 
 - 📍 Atlanta, Georgia
 - Hobbies: Watching crime documentaries and going on long walks around the city.
