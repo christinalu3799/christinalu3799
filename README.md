@@ -13,6 +13,11 @@ As I continue honing my technical skills, I look forward to connecting with othe
 - Pronouns: She/Her
 - Editor of Choice: VS Code 
 
+### Education 
+
+- Software Engineering Immersive Bootcamp at General Assembly 
+- BS in Earth and Atmospheric Sciences from the Georgia Institute of Technology (Class of 2020)
+
 [![Christina's LinkedIn](https://img.shields.io/badge/-christina-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/christinalu3799)](https://www.linkedin.com/in/christinalu3799/)
 ![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
 ![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3)
