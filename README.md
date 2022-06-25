@@ -9,6 +9,7 @@ As I continue honing my technical skills, I look forward to connecting with othe
 - 📍 Atlanta, Georgia
 - Hobbies: Watching crime documentaries and going on long walks around the city.
 - Pronouns: She/Her
+- Currently working on: Building my online portfolio 👉🏼 christinalu.me
 - Editor of Choice: VS Code 
 
 ### Education 
