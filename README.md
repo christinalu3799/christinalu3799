@@ -1,6 +1,6 @@
 ![Personal Github Banner](bannerwhite.png)
 
-![Pixel cartoon](plant1.png)
+<img src="plant1png" width="100">
 
 # Hello there! I'm Christina.
 
