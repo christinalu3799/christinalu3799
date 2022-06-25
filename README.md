@@ -1,6 +1,6 @@
 ![Personal Github Banner](bannerwhite.png)
 
-<img src="plant1.png" width="100"/>
+<img src="plant1.png" alt="plant cartoon" width="75"/> <img src="plant2.png" alt="plant cartoon" width="75"> <img src="plant3.png" alt="plant cartoon" width="75">
 
 # Hello there! I'm Christina.
 
