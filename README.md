@@ -28,8 +28,8 @@ As I continue honing my technical skills, I look forward to connecting with othe
 ### 👩🏻‍💻 Currently Working On...
 
 - Building my online portfolio! It's still a work in progress, but feel free to check it out here: [christinalu.me](https://christinalu.me/)
-- Personal projects 
-- Improving upon my front end development skills
+- Personal projects
+- Improving my front end development skills
 
 ### 🍃 In my free time...
 
