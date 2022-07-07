@@ -1,7 +1,5 @@
 ![Personal Github Banner](bannerwhite.png)
 
-<img src="plant3.png" alt="plant cartoon" width="75"> <img src="plant1.png" alt="plant cartoon" width="75"/> <img src="plant2.png" alt="plant cartoon" width="75"> 
-
 # Hello there! I'm Christina.
 
 I am currently a coding bootcamp student with General Assembly and on track to graduate at the end of November of this year. In the meantime, I am excited to explore the industry and leverage my problem-solving skills and creativity to a lifetime of learning with other like-minded individuals.
