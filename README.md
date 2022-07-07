@@ -32,7 +32,8 @@ As I continue honing my technical skills, I look forward to connecting with othe
 I enjoy trying new restaurants and going on long walks around the city. More often than not, you will probably find me binge watching true crime videos.
 
 ### 🔗 Connect with me! 
-[![Christina's LinkedIn](linkedin.png)](https://www.linkedin.com/in/christinalu3799/)
-[![Christina's Email](email.png)](mailto:christina.lu3799@gmail.com)
+<img src="linkedin.png" alt="linkedin" width="80"/><img src="email.png" alt="email" width="80"/>
+<!-- [![Christina's LinkedIn](linkedin.png)](https://www.linkedin.com/in/christinalu3799/)
+[![Christina's Email](email.png)](mailto:christina.lu3799@gmail.com) -->
 
 <!-- https://img.shields.io/badge/-christina-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/christinalu3799 -->
