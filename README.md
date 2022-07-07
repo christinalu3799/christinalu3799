@@ -8,20 +8,22 @@ I am currently a coding bootcamp student with General Assembly and on track to g
 
 As I continue honing my technical skills, I look forward to connecting with other developers to work on creative and innovative projects.
 
-- 📍 Atlanta, Georgia
-- Hobbies: Watching crime documentaries and going on long walks around the city.
-- Pronouns: She/Her
-- Currently working on: Building my online portfolio! It's still a work in progress, but feel free to check it out here: [christinalu.me](https://christinalu.me/)
-- Editor of Choice: VS Code 
-
 ### Education 
 
 - Software Engineering Immersive Bootcamp at General Assembly 
 - BS in Earth and Atmospheric Sciences from the Georgia Institute of Technology (Class of 2020)
+### Currently Working On...
 
-[![Christina's LinkedIn](https://img.shields.io/badge/-christina-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/christinalu3799)](https://www.linkedin.com/in/christinalu3799/)
+Building my online portfolio! It's still a work in progress, but feel free to check it out here: [christinalu.me](https://christinalu.me/)
+ Hobbies: Watching crime documentaries and going on long walks around the city.
+ 
+### Skills
 ![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
 ![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
 ![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=%23ffffff)
 ![VS Code](https://img.shields.io/badge/-VSCode-%23007ACC?style=flat-square&logo=visual-studio-code)
+
+### Connect with me! 
+[![Christina's LinkedIn](https://img.shields.io/badge/-christina-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/christinalu3799)](https://www.linkedin.com/in/christinalu3799/)
+[Email](mailto:christina.lu3799@gmail.com)
