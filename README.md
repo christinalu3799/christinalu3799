@@ -15,11 +15,17 @@ As I continue honing my technical skills, I look forward to connecting with othe
 
 ### 💪🏽 Skills
 
-![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
-![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3)
-![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
-![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=%23ffffff)
-![VS Code](https://img.shields.io/badge/-VSCode-%23007ACC?style=flat-square&logo=visual-studio-code)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
+![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
+![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 
 ### 👩🏻‍💻 Currently Working On...
 
@@ -27,13 +33,16 @@ As I continue honing my technical skills, I look forward to connecting with othe
 - Personal projects 
 - Improving upon my front end development skills
 
- 
 ### 🍃 In my free time...
+
 I enjoy trying new restaurants and going on long walks around the city. More often than not, you will probably find me binge watching true crime videos.
 
 ### 🔗 Connect with me! 
-<img src="linkedin.png" alt="linkedin" width="35"/>  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="email"/>
+
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" width="35"/>  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="email"/>
 <!-- [![Christina's LinkedIn](linkedin.png)](https://www.linkedin.com/in/christinalu3799/)
 [![Christina's Email](email.png)](mailto:christina.lu3799@gmail.com) -->
 
 <!-- https://img.shields.io/badge/-christina-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/christinalu3799 -->
+
+![Stats](https://github-readme-stats.vercel.app/api?username={christinalu3799}&theme=black-white)
