@@ -20,4 +20,4 @@ I am excited to leverage my problem-solving skills and creativity to a lifetime 
 [![Christina's LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/christinalu3799/) [![Christina's Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:christina.lu3799@gmail.com) 
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=christinalu3799&theme=noctis_minimus&show_icons=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=christinalu3799&layout=compact&theme=noctis_minimus)](https://github.com/christinalu3799)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=christinalu3799&layout=compact&theme=noctis_minimus)
