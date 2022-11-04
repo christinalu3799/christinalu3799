@@ -1,6 +1,8 @@
-# Christina Lu
----
 👩🏻‍💻 **`Fullstack Software Engineer`** 
+---
+
+
+[![Porfolio](https://img.shields.io/badge/Portfolio-5e5e5e?style=for-the-badge)](https://christinalu.me/) [![Christina's LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/christinalu3799/) 
 
 I am fullstack developer navigating the journey from law to tech. I enjoy creating beautiful experiences from scratch with the end goal of solving real world problems. 
 
@@ -15,10 +17,6 @@ I am excited to leverage my problem-solving skills and creativity to a lifetime 
 #### Currently Working On...
 
 - Learning how to build the backend of an app using Flask! 
-
-#### Connect with me! 
-
-[![Porfolio](https://img.shields.io/badge/Portfolio-5e5e5e?style=for-the-badge)](https://christinalu.me/) [![Christina's LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/christinalu3799/) [![Christina's Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contact@christinalu.me) 
 
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=christinalu3799&theme=graywhite&show_icons=true) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=christinalu3799&layout=compact&theme=graywhite)
