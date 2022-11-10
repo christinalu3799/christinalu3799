@@ -19,4 +19,4 @@ I am excited to leverage my problem-solving skills and creativity to a lifetime 
 - Learning how to build the backend of an app using Flask! 
 
 
-![Stats](https://github-readme-stats.vercel.app/api?username=christinalu3799&theme=graywhite&show_icons=true) !
+![Stats](https://github-readme-stats.vercel.app/api?username=christinalu3799&theme=graywhite&show_icons=true) 
