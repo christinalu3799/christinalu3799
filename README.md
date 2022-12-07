@@ -16,7 +16,6 @@ I am excited to leverage my problem-solving skills and creativity to a lifetime 
 
 #### Currently Working On...
 
-- Learning how to build the backend of an app using Flask! 
-
+- Learning Golang to build a backend server for a personal budgeting app with Plaid API integration.
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=christinalu3799&theme=graywhite&show_icons=true) 
