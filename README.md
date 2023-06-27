@@ -5,7 +5,7 @@
 
 ##### Thanks for stopping by!
 
-I enjoy tackling new challenges and creating beautiful experiences from scratch. I'm excited to use my problem-solving skills and creativity to a lifetime of learning and growth.
+Allways eager to learn and take on new challenges. 
 
 #### Languages and Tools
 
